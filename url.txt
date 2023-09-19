@@ -1,0 +1,8 @@
+http://demo.appspot.com/
+https://api.sendgrid.com/v3/mail/send
+https://odata.intel.com/
+https://demo.appspot.com/_ah/api/v1
+https://api.workspan.com/v1/person/me
+https://developers.google.com/
+https://a1234.execute-api.us-west.amazonaws.com/start/
+<Invalid URL>
