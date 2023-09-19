@@ -1,6 +1,7 @@
 # URL Status Analyzer
 
 There are two python scripts. 
+
 •	checkUrlStatusPersistData.py
 •	generate_Daily_UrlStatus_Report.py
 
